@@ -1,0 +1,11 @@
+.menu-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.menu-container a {
+  font-weight: bold;
+  font-family: var(--font-mono);
+  margin-right: 10px;
+}
